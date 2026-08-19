@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year **Information Technology (Data Science)** student at **Ho Chi Minh City University of Industry and Trade (HUIT)**, GPA 3.66/4.0
+- 🎓 Final-year **Information Technology (Data Science)** student at **Ho Chi Minh City University of Industry and Trade (HUIT)**
 - 📊 Focused on the end-to-end analytics workflow: EDA → feature engineering → machine learning → Power BI dashboards
 - 🧠 Comfortable across the stack: **Python, SQL, Power BI, PyTorch, Scikit-learn**
 - 🏆 Excellent Academic Scholarship — HUIT, Semester 2, 2024–2025
