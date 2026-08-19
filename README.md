@@ -52,14 +52,14 @@
 
 ### 📌 Featured Projects
 
-#### 🕵️ [Deepfake Detection using EfficientNet-B4 + Transformer](https://github.com/Tienndat2306)
+#### 🕵️ [Deepfake Detection using EfficientNet-B4 + Transformer](https://github.com/Tienndat2306/Deepfake_Detection)
 End-to-end deepfake video detection system combining EfficientNet-B4 with a Transformer temporal head.
 - Unified corpus of **13,692 processed face images** from FaceForensics++, DFDC, and Celeb-DF
 - MediaPipe BlazeFace face-cropping, multi-frame classification, focal loss training
 - **0.977 validation ROC-AUC**, deployed as an interactive Flask web demo
 - `Python` `PyTorch` `EfficientNet-B4` `Transformer`
 
-#### ✈️ [Flight Delay Analytics and Prediction using Machine Learning](https://github.com/Tienndat2306)
+#### ✈️ [Flight Delay Analytics and Prediction using Machine Learning](https://github.com/Tienndat2306/Flight_Delay_Analytics)
 Predictive analytics pipeline on **3 million U.S. domestic flight records** (2019–2023).
 - Feature engineering, EDA, and clustering to uncover delay patterns across airlines, airports, and seasons
 - Random Forest, XGBoost, and LightGBM models with SHAP-based interpretability
