@@ -66,14 +66,12 @@ Predictive analytics pipeline on **3 million U.S. domestic flight records** (201
 - Interactive **Power BI** dashboard for delay trends and geographic visualization
 - `Python` `Pandas` `Scikit-learn` `XGBoost` `LightGBM` `SHAP` `Power BI`
 
-> 💡 Update the links above once each project repo is public — point them at the exact repo URL instead of your profile page.
-
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tienndat2306&show_icons=true&theme=default&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tienndat2306&show_icons=true&theme=default" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tienndat2306&layout=compact&theme=default" height="165"/>
 </p>
 
@@ -89,6 +87,3 @@ Predictive analytics pipeline on **3 million U.S. domestic flight records** (201
 Bachelor of Information Technology — Data Science | 2023 – 2027 | GPA: 3.66/4.0
 🏆 Excellent Academic Scholarship, Semester 2, 2024–2025
 
----
-
-<p align="center"><i>Open to Data Analyst / Data Scientist internship opportunities — let's connect!</i></p>
