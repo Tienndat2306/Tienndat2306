@@ -79,6 +79,5 @@ Predictive analytics pipeline on **3 million U.S. domestic flight records** (201
 ### 🎓 Education
 
 **Ho Chi Minh City University of Industry and Trade (HUIT)**
-Bachelor of Information Technology — Data Science | 2023 – 2027 | GPA: 3.66/4.0
-🏆 Excellent Academic Scholarship, Semester 2, 2024–2025
+Bachelor of Information Technology — Data Science | 2023 – 2027 | 
 
