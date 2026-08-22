@@ -14,8 +14,7 @@
 - 🎓 Final-year **Information Technology (Data Science)** student at **Ho Chi Minh City University of Industry and Trade (HUIT)**
 - 📊 Focused on the end-to-end analytics workflow: EDA → feature engineering → machine learning → Power BI dashboards
 - 🧠 Comfortable across the stack: **Python, SQL, Power BI, PyTorch, Scikit-learn**
-- 🏆 Excellent Academic Scholarship — HUIT, Semester 2, 2024–2025
-- 🌱 Currently exploring deep learning applications and deployment (Flask, model serving)
+- 🌱 Currently exploring deep learning applications and deployment 
 - 📫 Reach me at **datnguyen23062005@gmail.com**
 
 ---
